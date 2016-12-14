@@ -21,3 +21,7 @@ SOAP Web Services
 The server is deployed on Heroku and it is possible to clone it with:
 * https://github.com/AlessioSpallino/introsde-2016-assignment-3-server.git
 
+## My Client
+
+You can find my Client here:
+* https://github.com/AlessioSpallino/introsde-2016-assignment-3-client
